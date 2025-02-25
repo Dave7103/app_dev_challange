@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.page-content {
+    margin: 20px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: disc;
+    text-align: left;
+    display: inline-block;
+}
+
+img {
+    width: 100px;
+    display: block;
+    margin: 10px auto;
+}
+
+.fit {
+    max-width: 99%;
+    max-height: 99%;
+}
+
